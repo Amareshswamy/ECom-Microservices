@@ -1,0 +1,13 @@
+server:
+  http_listen_port: 3200
+
+distributor:
+  receivers:
+    zipkin:
+    # You can specify protocols or any other configuration settings here
+
+storage:
+  trace:
+    backend: local
+    local:
+      path: /tmp/tempo/blocks
