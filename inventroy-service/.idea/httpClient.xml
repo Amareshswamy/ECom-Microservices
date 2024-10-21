@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HttpClientEndpointsTabState">
+    <option name="requestToText" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;44bc4aeaa7e20b6ec28a455a08c83f807bbd0549&quot; value=&quot;###&amp;#10;GET http://localhost:8082/api/inventory?&amp;#10;    skuCode={{$random.alphanumeric(8)}}&amp;amp;&amp;#10;    quantity={{$random.integer(100)}}&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+</project>
